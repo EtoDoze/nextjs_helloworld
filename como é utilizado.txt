@@ -1,0 +1,4 @@
+        como é utilizado no mercado
+
+O next.js ascendeu muito ultimamente, em 2023 o next.js passou a ser 6° 
+estrutura de desenvolvimento web 
